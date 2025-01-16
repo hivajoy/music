@@ -109,7 +109,7 @@ function Showcase(props) {
 
     useEffect(() => {
         document.body.scrollTop = document.documentElement.scrollTop = 0; //scroll to top of page
-        document.title = "Popular Now - TuneStation"
+        document.title = "Popular Now - Hivajoy Music"
         setHomepageData()
     }, [])
 
